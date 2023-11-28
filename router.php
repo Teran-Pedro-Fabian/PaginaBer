@@ -22,6 +22,7 @@ switch ($params[0]) {
     case "home" :
         $view->home();
         break;
+        
     case "informacion" :
         $view->informacion();
         break;
