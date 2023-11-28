@@ -7,7 +7,7 @@ class Viewbasic{
     }
 
     function home(){
-        include_once "index.phtml";
+        include_once "templates/index.phtml";
     }
 
     function informacion(){
